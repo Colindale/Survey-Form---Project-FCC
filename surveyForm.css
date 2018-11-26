@@ -1,0 +1,19 @@
+h1 {
+  text-align: center; padding: 2%;
+}
+
+#jumbotron {
+  margin: 0 auto; padding-left: 5%;
+}
+
+#benefit {
+  margin-top: 2%;
+}
+
+#comment {
+  margin-top: 3%;
+}
+
+#submit {
+  margin-top: 5%;
+}
